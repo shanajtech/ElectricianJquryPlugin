@@ -1,0 +1,751 @@
+/* // Extra large devices */
+@media (min-width: 1200px) { 
+.bottomright h5 i {
+    margin-left: 103px;
+}
+ }
+
+/* // Large devices  */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .nav-link i {
+        margin-left: 1px;
+        font-size: 700;
+    }
+    .nav-link {
+        margin: 0 19px;
+        font-size: 14px;
+    }
+    .navright a {
+        font-size: 14px;
+    }
+    .bannertext h3 {
+        font-size: 42px;
+        line-height: 50px;
+    }
+    .bannertext p {
+        font-size: 14px;
+        color: white;
+        line-height: 28px;
+    }
+    .bannertext a {
+        font-size: 14px;
+        margin-top: 10px;
+        margin-bottom: 25px;
+    }
+    .bannertexttwo h4 {
+        font-size: 16px;
+        margin-bottom: 35px;
+    }
+    .bannerdiv {
+        margin-left: 426px;
+    }
+    .serviceleft h3 {
+        font-size: 36px;
+        line-height: 42px;
+    }
+    .serviceright p {
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .serviceicon {
+        margin-left: 43px;
+    }
+    .servicetext h3 {
+        font-size: 16px;
+        line-height: 24px;
+        margin-top: 15px;
+    }
+    .servicetext p {
+        font-size: 11px;
+        line-height: 20px;
+        margin-top: 8px;
+    }
+    .serviceiconone {
+        margin-left: 43px;
+    }
+    .serviceicontwo {
+        margin-left: 43px;
+    }
+    .serviceiconthree {
+        margin-left: 43px;
+    }
+    .buisnesstext h3 {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    .buisnesstext p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .buisnesstext a {
+        font-size: 14px;
+    }
+    .buisnesstext h3 {
+        font-size: 22px;
+        line-height: 32px;
+        padding-right: 132px;
+    }
+    .buisnesstext p {
+        font-size: 10px;
+        line-height: 24px;
+    }
+    .teamtexttext h3 {
+        top: 211px;
+        font-size: 14px;
+    }
+    .teamtexttext p {
+        top: 272px;
+        font-size: 12px;
+    }
+    .teamdivthree {
+        top: 86px;
+        left: 172px;
+    }
+    .teamdivtwo {
+        top: 135px;
+        left: 173px;
+    }
+    .teamdivone {
+        top: 183px;
+        left: 173px;
+    }
+    .teamdiv {
+        top: 228px;
+        left: 173px;
+    }
+    #invest {
+        padding-top: 108px;
+    }
+    .investtext h3 {
+        font-size: 41px;
+        line-height: 52px;
+    }
+    .investtext p i {
+        margin-left: 145px;
+    }
+    .investtextmiddle i {
+        margin-left: 123px;
+    }
+    .investtextmiddle h6 {
+        font-size: 17px;
+    }
+    .investtextlast i {
+        margin-left: 140px;
+    }
+    .investtextlast span i {
+        margin-left: 104px;
+    }
+    .counterlefttext h3 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+    .counterlastleft a {
+        font-size: 14px;
+    }
+    .countertwo h3 {
+        font-size: 38px;
+    }
+    .countertwo p {
+        font-size: 14px;
+    }
+    .testimonialtext h3 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .testiitem p {
+        font-size: 14px;
+        line-height: 34px;
+        margin-bottom: 0;
+    }
+    .testright i {
+        margin-top: 86px;
+    }
+    .testimonialleftitem p {
+        font-size: 14px;
+    }
+    .testimonialleftitem img {
+        margin-left: 306px;
+    }
+    .testimonialleftitem h4 {
+        font-size: 14px;
+    }
+    .testmonialsms img {
+        margin-left: 0;
+    }
+    .newsitemtext p {
+        font-size: 12px;
+    }
+    .blogtext p {
+        font-size: 12px;
+    }
+    .blogicon i {
+        font-size: 21px;
+        padding-top: 13px;
+    }
+    .blogicontext h6 {
+        font-size: 12px;
+        padding-left: 12px;
+        padding-top: 18px;
+    }
+    .bottomleft p {
+        font-size: 10px;
+    }
+    .bottomicontwo {
+        height: 25px;
+        width: 25px;
+    }
+    .bottomicontwo i {
+        font-size: 10px;
+    }
+    .bottomiconthree i {
+        font-size: 10px;
+    }
+    .bottomiconthree {
+        height: 25px;
+        width: 25px;
+    }
+    .bottomiconone {
+        height: 25px;
+        width: 25px;
+    }
+    .bottomiconone i {
+font-size: 10px;
+    }
+    .bottomicon {
+        height: 25px;
+        width: 25px;
+    }
+    .bottomicon i {
+font-size: 10px;
+    }
+    .bottomright h5 i {
+        margin-left: 51px;
+    }
+}
+
+/* // Medium devices  */
+@media (min-width: 768px) and (max-width: 991.98px) {
+ .navbar-toggler i{
+    color: white;
+    font-size: 32px;
+ }
+ .nav-link {
+	color: black;
+	background-color: white;
+	text-align: center;
+}
+.navright {
+	margin-left: 245px;
+}
+.navright a {
+color: #FD5F36;
+}
+.navcons a{
+    color: black;
+}
+.bannertext h3 {
+    font-size: 39px;
+    line-height: 50px;
+}
+.bannertext p {
+	font-size: 18px;
+	padding-right: 151px;
+}
+.worldimge img {
+	margin-left: 28px;
+}
+.serviceright p {
+	margin-top: 11px;
+	margin-right: 187px;
+}
+.serviceicon {
+	margin-left: 260px;
+	margin-top: 20px;
+}
+.serviceiconone {
+    margin-left: 260px;
+	margin-top: 20px;
+}
+.serviceicontwo {
+    margin-left: 260px;
+	margin-top: 20px;
+}
+.serviceiconthree {
+    margin-left: 260px;
+	margin-top: 20px;
+}
+.serviceitemthree {
+	margin-bottom: 40px;
+}
+.buisnesstext h3 {
+	font-size: 26px;
+}
+.buisnesstext p {
+	font-size: 14px;
+	margin-right: 190px;
+}
+.buisnesstext a {
+	font-size: 14px;
+}
+.buisnesstext p {
+	font-size: 14px;
+	margin-right: 75px;
+}
+.teamimges img {
+	width: 37%;
+	position: absolute;
+	top: 25px;
+	left: 235px;
+}
+.teamtexttext h3 {
+	left: 235px;
+}
+.teamtexttext p {
+	left: 286px;
+}
+.teamdiv {
+	left: 434px;
+}
+.teamdivone {
+    left: 434px;
+}
+.teamdivtwo {
+    left: 434px;
+}
+.teamdivthree {
+    left: 434px;
+}
+.investtext p i {
+	margin-left: 383px;
+}
+.investtextlast i {
+	margin-left: 380px;
+}
+.investtextlast span i {
+	margin-left: 344px;
+}
+.countertwo h3 {
+	text-align: center;
+}
+.countertwo p {
+	text-align: center;
+}
+.counterlastleft a {
+	margin-left: 273px;
+}
+.testimonialtext h3 {
+	font-size: 31px;
+	text-align: center;
+    padding-right: 0;
+}
+.bottomleft{
+    text-align: center;
+}
+.bottomleft p {
+	text-align: center;
+}
+.bottomtwo h2 {
+	text-align: center;
+}
+.bottomtwo h3 {
+	text-align: center;
+}
+.bottomright h2 {
+	text-align: center;
+}
+    .bottomicontwo {
+        height: 25px;
+        width: 25px;
+    }
+    .bottomicontwo i {
+        font-size: 10px;
+    }
+    .bottomiconthree i {
+        font-size: 10px;
+    }
+    .bottomiconthree {
+        height: 25px;
+        width: 25px;
+    }
+    .bottomiconone {
+        height: 25px;
+        width: 25px;
+    }
+    .bottomiconone i {
+font-size: 10px;
+    }
+    .bottomicon {
+        height: 25px;
+        width: 25px;
+    }
+    .bottomicon i {
+font-size: 10px;
+    }
+    .bottomright h5 i {
+        margin-left: 490px;
+    }
+ }
+
+/* // Small devices */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .navbar-toggler i{
+        color: white;
+        font-size: 32px;
+     }
+     .nav-link {
+        color: black;
+        background-color: white;
+        text-align: center;
+    }
+    .navright {
+        margin-left: 245px;
+    }
+    .navright a {
+    color: #FD5F36;
+    }
+    .navcons a{
+        color: black;
+    }
+    .bannerdiv {
+        margin-left: 253px;
+    }
+    .bannertext h3 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+    .bannertext p {
+        font-size: 18px;
+        padding-right: 151px;
+    }
+    .worldimge img {
+        margin-left: 28px;
+    }
+    .serviceright p {
+        margin-top: 11px;
+        margin-right: 187px;
+    }
+    .serviceicon {
+        margin-left: 182px;
+        margin-top: 20px;
+    }
+    .serviceiconone {
+        margin-left: 182px;
+        margin-top: 20px;
+    }
+    .serviceicontwo {
+        margin-left: 182px;
+        margin-top: 20px;
+    }
+    .serviceiconthree {
+        margin-left: 182px;
+        margin-top: 20px;
+    }
+    .serviceitemthree {
+        margin-bottom: 40px;
+    }
+    .servicedots {
+        margin-left: 188px;
+    }
+    .buisnesstext h3 {
+        /* font-size: 26px; */
+    }
+    .buisnesstext p {
+        font-size: 14px;
+        margin-right: 10px;
+    }
+    .buisnesstext a {
+        font-size: 14px;
+    }
+    .buisnesstext h3 {
+        padding-right: 0;
+    }
+    .buisnesstext p {
+        font-size: 14px;
+        margin-right: 75px;
+    }
+    .teamimges img {
+        width: 49%;
+        position: absolute;
+        top: 25px;
+        left: 235px;
+    }
+    .teamtexttext h3 {
+        top: 246px;
+        left: 235px;
+
+    }
+    .teamtexttext p {
+        left: 286px;
+     top: 308px;
+    }
+    .teamdiv {
+        left: 434px;
+    }
+    .teamdivone {
+        left: 434px;
+    }
+    .teamdivtwo {
+        left: 434px;
+    }
+    .teamdivthree {
+        left: 434px;
+    }
+    #invest {
+        padding-top: 9px;
+        padding-bottom: 50px;
+    }
+    .investtext p i {
+        margin-left: 206px;
+    }
+    .investtextlast i {
+        margin-left: 200px;
+    }
+    .investtextlast span i {
+        margin-left: 164px;
+    }
+    .countertwo h3 {
+        text-align: center;
+    }
+    .countertwo p {
+        text-align: center;
+    }
+    .counterlastleft a {
+        margin-left: 186px;
+    }
+    .testimonialtext h3 {
+        font-size: 31px;
+        text-align: center;
+        padding-right: 0;
+    }
+    .bottomright p {
+        font-size: 14px;
+    }
+    .bottomleft{
+        text-align: center;
+    }
+    .bottomleft p {
+        text-align: center;
+    }
+    .bottomtwo h2 {
+        text-align: center;
+    }
+    .bottomtwo h3 {
+        text-align: center;
+    }
+    .bottomright h2 {
+        text-align: center;
+    }
+        .bottomicontwo {
+            height: 25px;
+            width: 25px;
+        }
+        .bottomicontwo i {
+            font-size: 10px;
+        }
+        .bottomiconthree i {
+            font-size: 10px;
+        }
+        .bottomiconthree {
+            height: 25px;
+            width: 25px;
+        }
+        .bottomiconone {
+            height: 25px;
+            width: 25px;
+        }
+        .bottomiconone i {
+    font-size: 10px;
+        }
+        .bottomicon {
+            height: 25px;
+            width: 25px;
+        }
+        .bottomicon i {
+    font-size: 10px;
+        }
+        .bottomright h5 i {
+            margin-left: 300px;
+        }
+}
+
+/* // Extra small devices */
+@media (max-width: 575.98px) { 
+    .navbar-toggler i{
+        color: white;
+        font-size: 32px;
+     }
+     .nav-link {
+        color: black;
+        background-color: white;
+        text-align: center;
+    }
+    .navright {
+        margin-left: 245px;
+    }
+    .navright a {
+    color: #FD5F36;
+    }
+    .navcons a{
+        color: black;
+    }
+    .bannerdiv {
+        margin-left: 253px;
+    }
+    .bannertext h3 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+    .bannertext p {
+        font-size: 18px;
+        padding-right: 151px;
+    }
+    .worldimge img {
+        margin-left: 28px;
+    }
+    .serviceright p {
+        margin-top: 11px;
+        margin-right: 187px;
+    }
+    .serviceicon {
+        margin-left: 182px;
+        margin-top: 20px;
+    }
+    .serviceiconone {
+        margin-left: 182px;
+        margin-top: 20px;
+    }
+    .serviceicontwo {
+        margin-left: 182px;
+        margin-top: 20px;
+    }
+    .serviceiconthree {
+        margin-left: 182px;
+        margin-top: 20px;
+    }
+    .serviceitemthree {
+        margin-bottom: 40px;
+    }
+    .servicedots {
+        margin-left: 188px;
+    }
+    .buisnesstext h3 {
+        /* font-size: 26px; */
+    }
+    .buisnesstext p {
+        font-size: 14px;
+        margin-right: 10px;
+    }
+    .buisnesstext a {
+        font-size: 14px;
+    }
+    .buisnesstext h3 {
+        padding-right: 0;
+    }
+    .buisnesstext p {
+        font-size: 14px;
+        margin-right: 75px;
+    }
+    .teamimges img {
+        width: 45%;
+        position: absolute;
+        top: 25px;
+        left: 235px;
+    }
+    .teamtexttext h3 {
+        top: 246px;
+        left: 235px;
+
+    }
+    .teamtexttext p {
+        left: 286px;
+     top: 308px;
+    }
+    .teamdiv {
+        left: 434px;
+    }
+    .teamdivone {
+        left: 434px;
+    }
+    .teamdivtwo {
+        left: 434px;
+    }
+    .teamdivthree {
+        left: 434px;
+    }
+    #invest {
+        padding-top: 115px;
+        padding-bottom: 50px;
+    }
+    .investtext p i {
+        margin-left: 206px;
+    }
+    .investtextlast i {
+        margin-left: 200px;
+    }
+    .investtextlast span i {
+        margin-left: 164px;
+    }
+    .countertwo h3 {
+        text-align: center;
+    }
+    .countertwo p {
+        text-align: center;
+    }
+    .counterlastleft a {
+        margin-left: 186px;
+    }
+    .testimonialtext h3 {
+        font-size: 31px;
+        text-align: center;
+        padding-right: 0;
+    }
+    .bottomright p {
+        font-size: 14px;
+    }
+    .bottomleft{
+        text-align: center;
+    }
+    .bottomleft p {
+        text-align: center;
+    }
+    .bottomtwo h2 {
+        text-align: center;
+    }
+    .bottomtwo h3 {
+        text-align: center;
+    }
+    .bottomright h2 {
+        text-align: center;
+    }
+        .bottomicontwo {
+            height: 25px;
+            width: 25px;
+        }
+        .bottomicontwo i {
+            font-size: 10px;
+        }
+        .bottomiconthree i {
+            font-size: 10px;
+        }
+        .bottomiconthree {
+            height: 25px;
+            width: 25px;
+        }
+        .bottomiconone {
+            height: 25px;
+            width: 25px;
+        }
+        .bottomiconone i {
+    font-size: 10px;
+        }
+        .bottomicon {
+            height: 25px;
+            width: 25px;
+        }
+        .bottomicon i {
+    font-size: 10px;
+        }
+        .bottomright h5 i {
+            margin-left: 300px;
+        }
+ }
